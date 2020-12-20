@@ -1,0 +1,522 @@
+,area_type,availability,location,size,society,total_sqft,bath,balcony,price(in lakhs),bhk,price_per_sqft
+0,Super built-up  Area,Ready To Move,Whitefield,2,DuenaTa,1170.0,2.0,1.0,38.0,2.0,3247.863247863248
+1,Super built-up  Area,19-Dec,Binny Pete,3,She 2rk,1755.0,3.0,1.0,122.0,3.0,6951.5669515669515
+2,Super built-up  Area,Ready To Move,other,1,Ceove G,600.0,1.0,0.0,38.0,1.0,6333.333333333333
+3,Super built-up  Area,19-Sep,Kanakpura Road,2,Soazak ,1330.74,2.0,2.0,91.79,2.0,6897.665960292769
+4,Super built-up  Area,20-Aug,Begur Road,2,Pruthg ,1358.0,2.0,1.0,80.58,2.0,5933.726067746687
+5,Super built-up  Area,Ready To Move,other,3,,1450.0,2.0,2.0,70.0,3.0,4827.586206896552
+6,Super built-up  Area,Ready To Move,other,2,Makeser,1007.0,2.0,2.0,43.0,2.0,4270.109235352532
+7,Super built-up  Area,Ready To Move,Hormavu,2,SyidaCr,1500.0,2.0,1.0,78.0,2.0,5200.0
+8,Super built-up  Area,Ready To Move,Kothanur,3,Somumys,1828.0,3.0,,110.0,3.0,6017.505470459519
+9,Super built-up  Area,Ready To Move,Hulimavu,2,Prcan P,1125.0,2.0,2.0,50.0,2.0,4444.444444444444
+10,Super built-up  Area,Ready To Move,other,3,Hohnari,2000.0,3.0,1.0,175.0,3.0,8750.0
+11,Super built-up  Area,Ready To Move,Electronic City,3,GMown E,1500.0,2.0,1.0,64.5,3.0,4300.0
+12,Super built-up  Area,Ready To Move,Malleshwaram,1,Utntspa,705.0,1.0,2.0,67.0,1.0,9503.54609929078
+13,Super built-up  Area,Ready To Move,Hulimavu,2,Aniona ,1242.0,2.0,3.0,51.0,2.0,4106.280193236715
+14,Built-up  Area,Ready To Move,other,4,,2000.0,4.0,1.0,75.5,4.0,3775.0
+15,Super built-up  Area,Ready To Move,other,3,MacleK ,2405.0,4.0,2.0,260.0,3.0,10810.81081081081
+16,Plot  Area,Ready To Move,other,2,,900.0,2.0,1.0,110.0,2.0,12222.222222222223
+17,Super built-up  Area,Ready To Move,Kaggadasapura,3,,1280.0,2.0,2.0,56.0,3.0,4375.0
+18,Super built-up  Area,Ready To Move,Electronic City Phase II,2,Coush W,1069.0,2.0,2.0,45.0,2.0,4209.541627689429
+19,Super built-up  Area,Ready To Move,other,2,Puodse ,1113.0,2.0,1.0,51.0,2.0,4582.210242587601
+20,Super built-up  Area,18-Apr,Electronic City,2,Prarkun,1128.0,2.0,1.0,65.0,2.0,5762.41134751773
+21,Super built-up  Area,Ready To Move,Somasundara Palya,3,,1600.0,3.0,3.0,64.0,3.0,4000.0
+22,Super built-up  Area,18-May,Jalahalli,3,Shard T,1400.0,3.0,0.0,77.0,3.0,5500.0
+23,Built-up  Area,20-Dec,other,3,,1629.0,3.0,2.0,79.0,3.0,4849.600982197668
+24,Built-up  Area,Ready To Move,other,2,VMowsea,1460.0,2.0,1.0,58.0,2.0,3972.6027397260273
+25,Super built-up  Area,Ready To Move,Chandapura,3,Vailsaf,1208.0,3.0,1.0,45.0,3.0,3725.1655629139073
+26,Super built-up  Area,Ready To Move,Whitefield,4,Haestt ,3252.0,4.0,1.0,230.0,4.0,7072.570725707257
+27,Super built-up  Area,Ready To Move,Hulimavu,3,,1650.0,3.0,2.0,78.0,3.0,4727.272727272727
+28,Plot  Area,Ready To Move,Sector 7 HSR Layout,4,,3000.0,5.0,1.0,275.0,4.0,9166.666666666666
+29,Super built-up  Area,Ready To Move,Hebbal,3,Brium C,3450.0,5.0,2.0,260.0,3.0,7536.231884057971
+30,Plot  Area,Ready To Move,other,2,,1800.0,1.0,1.0,80.0,2.0,4444.444444444444
+31,Super built-up  Area,Ready To Move,Electronics City Phase 1,3,GaicaVe,1490.0,3.0,1.0,84.0,3.0,5637.583892617449
+32,Super built-up  Area,Ready To Move,HSR Layout,3,,1430.0,2.0,1.0,65.0,3.0,4545.454545454545
+33,Super built-up  Area,Ready To Move,Kalena Agrahara,3,MancyRe,1450.0,2.0,3.0,85.0,3.0,5862.068965517241
+34,Super built-up  Area,Ready To Move,Raja Rajeshwari Nagar,2,GrrvaGr,1133.0,2.0,1.0,49.07,2.0,4330.979699911739
+35,Carpet  Area,Ready To Move,Bannerghatta Road,3,,1445.0,3.0,2.0,95.0,3.0,6574.39446366782
+36,Super built-up  Area,Ready To Move,Marathahalli,4,PueraRi,3800.0,4.0,3.0,250.0,4.0,6578.9473684210525
+37,Super built-up  Area,Ready To Move,GM Palaya,3,Chnts A,1820.0,2.0,3.0,86.0,3.0,4725.274725274725
+38,Super built-up  Area,Ready To Move,Yelahanka,2,Pyikad ,1210.0,2.0,1.0,45.98,2.0,3800.0
+39,Super built-up  Area,Ready To Move,Budigere,2,PrityTr,1153.0,2.0,2.0,57.0,2.0,4943.625325238509
+40,Super built-up  Area,Ready To Move,Kaggadasapura,2,SLireap,1185.0,2.0,1.0,41.0,2.0,3459.915611814346
+41,Super built-up  Area,Ready To Move,other,1,Bhmesy ,445.0,1.0,0.0,28.0,1.0,6292.134831460674
+42,Super built-up  Area,Ready To Move,Gottigere,3,Sklls C,1618.0,3.0,3.0,82.5,3.0,5098.887515451174
+43,Super built-up  Area,Ready To Move,KR Puram,2,LVniaar,1225.0,2.0,1.0,46.55,2.0,3800.0
+44,Built-up  Area,19-Dec,Uttarahalli,2,,1345.0,2.0,1.0,67.0,2.0,4981.412639405205
+45,Built-up  Area,Ready To Move,other,4,,1500.0,4.0,,180.0,4.0,12000.0
+46,Super built-up  Area,Ready To Move,other,3,,2400.0,2.0,0.0,80.0,3.0,3333.3333333333335
+47,Plot  Area,Ready To Move,Ramamurthy Nagar,5,,1800.0,4.0,3.0,187.0,5.0,10388.888888888889
+48,Built-up  Area,18-Mar,Kundalahalli,2,Dieldli,1047.0,2.0,1.0,82.0,2.0,7831.900668576886
+49,Built-up  Area,Ready To Move,Kasavanhalli,4,Vaidsi ,3260.0,4.0,1.0,240.0,4.0,7361.963190184049
+50,Super built-up  Area,Ready To Move,7th Phase JP Nagar,2,Vasta C,1190.0,2.0,1.0,49.98,2.0,4200.0
+51,Super built-up  Area,19-Jan,Mysore Road,2,,1175.0,2.0,1.0,73.5,2.0,6255.31914893617
+52,Super built-up  Area,Ready To Move,ITPL,3,,1548.0,3.0,2.0,89.5,3.0,5781.6537467700255
+53,Built-up  Area,Ready To Move,5th Phase JP Nagar,2,,1256.0,2.0,1.0,62.8,2.0,5000.0
+54,Super built-up  Area,Ready To Move,TC Palaya,3,RKncyha,1600.0,2.0,2.0,65.0,3.0,4062.5
+55,Super built-up  Area,18-Apr,Haralur Road,4,SNnia E,2805.0,4.0,3.0,154.0,4.0,5490.196078431372
+56,Plot  Area,Ready To Move,Whitefield,4,Saark H,2400.0,4.0,3.0,200.0,4.0,8333.333333333334
+57,Super built-up  Area,18-Apr,Marathahalli,2,Spows M,1152.0,2.0,1.0,56.0,2.0,4861.111111111111
+58,Super built-up  Area,Ready To Move,7th Phase JP Nagar,2,,1050.0,2.0,1.0,42.0,2.0,4000.0
+59,Built-up  Area,Ready To Move,Uttarahalli,2,Sungsha,1150.0,2.0,1.0,49.0,2.0,4260.869565217391
+60,Super built-up  Area,Ready To Move,Jigani,2,DLhtsan,924.0,2.0,2.0,65.0,2.0,7034.632034632034
+61,Super built-up  Area,Ready To Move,Sonnenahalli,3,DSgam S,1415.0,2.0,1.0,55.0,3.0,3886.9257950530036
+62,Plot  Area,Ready To Move,other,3,,1200.0,3.0,1.0,85.0,3.0,7083.333333333333
+63,Super built-up  Area,Ready To Move,Rachenahalli,3,Sovar S,1530.0,2.0,2.0,74.4,3.0,4862.745098039216
+64,Super built-up  Area,Ready To Move,7th Phase JP Nagar,2,Brnia G,980.0,2.0,2.0,69.0,2.0,7040.816326530612
+65,Super built-up  Area,Ready To Move,Jigani,3,DLhtsan,1300.0,3.0,3.0,150.0,3.0,11538.461538461539
+66,Built-up  Area,Ready To Move,Sarjapur,2,Sondaka,1020.0,2.0,2.0,35.0,2.0,3431.372549019608
+67,Super built-up  Area,Ready To Move,Begur Road,2,Dhalsh ,1160.0,2.0,2.0,44.08,2.0,3800.0
+68,Super built-up  Area,Ready To Move,Vittasandra,2,Prlla C,1246.0,2.0,1.0,68.0,2.0,5457.463884430176
+69,Carpet  Area,18-Dec,Bhoganhalli,2,Rosha I,804.1,2.0,1.0,69.09,2.0,8592.214898644446
+70,Built-up  Area,Ready To Move,Singasandra,4,,3850.0,6.0,3.0,195.0,4.0,5064.935064935065
+71,Super built-up  Area,17-Oct,Whitefield,2,Asarqz ,1277.0,2.0,1.0,61.3,2.0,4800.313234142522
+72,Super built-up  Area,Ready To Move,Hebbal,2,,1080.0,2.0,1.0,54.0,2.0,5000.0
+73,Super built-up  Area,18-Nov,Whitefield,2,,1125.0,2.0,2.0,62.0,2.0,5511.111111111111
+74,Built-up  Area,Ready To Move,HBR Layout,3,Peentn ,2800.0,2.0,0.0,200.0,3.0,7142.857142857143
+75,Super built-up  Area,Ready To Move,Kambipura,2,Prrtht ,883.0,2.0,1.0,39.0,2.0,4416.761041902605
+76,Super built-up  Area,Ready To Move,Harlur,3,SosicCl,1757.0,3.0,2.0,132.0,3.0,7512.805919180421
+77,Super built-up  Area,Ready To Move,Bannerghatta Road,3,SNity S,1460.0,2.0,2.0,72.0,3.0,4931.506849315068
+78,Built-up  Area,Ready To Move,other,3,Keharya,1250.0,2.0,1.0,80.0,3.0,6400.0
+79,Super built-up  Area,Ready To Move,Akshaya Nagar,3,Hiows C,1476.0,3.0,1.0,120.0,3.0,8130.081300813008
+80,Super built-up  Area,Ready To Move,Sarjapur  Road,3,Klark L,1691.0,3.0,2.0,119.0,3.0,7037.25606150207
+81,Built-up  Area,Ready To Move,Nagavarapalya,2,,980.0,2.0,0.0,37.0,2.0,3775.5102040816328
+82,Super built-up  Area,Ready To Move,Thanisandra,3,Soitya ,1564.0,3.0,1.0,101.0,3.0,6457.800511508952
+83,Super built-up  Area,Ready To Move,GM Palaya,2,Samesan,1000.0,2.0,1.0,36.0,2.0,3600.0
+84,Plot  Area,Ready To Move,Magadi Road,4,,1500.0,2.0,2.0,93.0,4.0,6200.0
+85,Super built-up  Area,Ready To Move,Gottigere,3,,1600.0,2.0,2.0,55.0,3.0,3437.5
+86,Super built-up  Area,Ready To Move,other,2,Dural C,1265.0,2.0,3.0,70.0,2.0,5533.596837944664
+87,Super built-up  Area,Ready To Move,other,3,AkletBa,2045.0,4.0,3.0,154.0,3.0,7530.562347188264
+88,Super built-up  Area,Ready To Move,Bellandur,3,AkonyHa,1490.0,2.0,2.0,98.0,3.0,6577.181208053691
+89,Super built-up  Area,Ready To Move,Haralur Road,3,NDionas,2017.0,3.0,2.0,125.0,3.0,6197.322756569162
+90,Super built-up  Area,Ready To Move,Thigalarapalya,4,Prtanha,3122.0,6.0,2.0,235.0,4.0,7527.226137091608
+91,Built-up  Area,Ready To Move,other,2,Dhnts A,1415.0,2.0,3.0,110.0,2.0,7773.851590106007
+92,Super built-up  Area,Ready To Move,Ambedkar Nagar,2,SoechHa,1424.0,2.0,2.0,90.0,2.0,6320.224719101124
+93,Super built-up  Area,18-Aug,other,3,,1340.0,2.0,1.0,100.0,3.0,7462.686567164179
+94,Super built-up  Area,22-Jun,Hoodi,3,GoAirej,1837.0,3.0,3.0,145.0,3.0,7893.304300489929
+95,Super built-up  Area,Ready To Move,Kanakpura Road,3,PuandHi,1673.0,3.0,2.0,115.0,3.0,6873.879258816497
+96,Super built-up  Area,Ready To Move,Channasandra,3,Pritehi,1470.0,2.0,1.0,90.0,3.0,6122.448979591837
+97,Super built-up  Area,Ready To Move,other,2,,1200.0,2.0,1.0,49.5,2.0,4125.0
+98,Built-up  Area,Ready To Move,BTM Layout,3,,3000.0,3.0,0.0,338.0,3.0,11266.666666666666
+99,Super built-up  Area,Ready To Move,other,2,DubowRa,1140.0,2.0,1.0,76.0,2.0,6666.666666666667
+100,Built-up  Area,Ready To Move,other,2,,1370.0,2.0,2.0,75.0,2.0,5474.4525547445255
+101,Built-up  Area,Ready To Move,other,2,,1200.0,2.0,2.0,50.0,2.0,4166.666666666667
+102,Super built-up  Area,19-Oct,Sarjapur  Road,2,Brareio,1233.0,2.0,2.0,77.65,2.0,6297.6480129764805
+103,Built-up  Area,Ready To Move,other,3,,1700.0,3.0,,80.0,3.0,4705.882352941177
+104,Super built-up  Area,Ready To Move,Uttarahalli,3,Aklia R,1345.0,2.0,1.0,57.0,3.0,4237.918215613383
+105,Super built-up  Area,Ready To Move,other,4,,3500.0,4.0,3.0,350.0,4.0,10000.0
+106,Super built-up  Area,18-Jun,8th Phase JP Nagar,3,,1230.0,2.0,2.0,43.5,3.0,3536.5853658536585
+107,Super built-up  Area,Ready To Move,Padmanabhanagar,2,Bhise P,1100.0,2.0,2.0,65.0,2.0,5909.090909090909
+108,Built-up  Area,Ready To Move,other,3,Sancybr,2400.0,3.0,1.0,260.0,3.0,10833.333333333334
+109,Super built-up  Area,Ready To Move,Akshaya Nagar,3,Hiows C,1720.0,3.0,1.0,134.0,3.0,7790.697674418605
+110,Super built-up  Area,19-Dec,7th Phase JP Nagar,4,Puarero,2503.0,4.0,0.0,188.0,4.0,7510.986815821015
+111,Super built-up  Area,Ready To Move,other,2,,1175.0,2.0,2.0,48.27,2.0,4108.085106382979
+112,Built-up  Area,Ready To Move,Marathahalli,3,,1350.0,3.0,1.0,72.0,3.0,5333.333333333333
+113,Super built-up  Area,Ready To Move,Whitefield,3,Brony H,1870.0,3.0,2.0,90.0,3.0,4812.834224598931
+114,Super built-up  Area,Ready To Move,Sarjapur  Road,2,Mades G,1255.0,2.0,1.0,92.0,2.0,7330.677290836654
+115,Plot  Area,Ready To Move,other,3,,1550.0,2.0,1.0,150.0,3.0,9677.41935483871
+116,Super built-up  Area,18-Aug,Uttarahalli,3,DSera S,1845.0,2.0,1.0,68.27,3.0,3700.271002710027
+117,Super built-up  Area,Ready To Move,other,2,Sid 2ss,1165.0,2.0,1.0,135.0,2.0,11587.982832618025
+118,Super built-up  Area,Ready To Move,Nagavara,3,,2319.0,3.0,2.0,180.0,3.0,7761.966364812419
+119,Super built-up  Area,Ready To Move,Munnekollal,2,Akave E,1200.0,2.0,2.0,49.5,2.0,4125.0
+120,Built-up  Area,Ready To Move,other,2,Prineth,955.0,1.0,2.0,34.01,2.0,3561.256544502618
+121,Super built-up  Area,Ready To Move,Bharathi Nagar,3,FoapeWa,1739.0,3.0,1.0,105.0,3.0,6037.952846463485
+122,Super built-up  Area,Ready To Move,other,2,,1100.0,2.0,1.0,38.45,2.0,3495.454545454546
+123,Super built-up  Area,Ready To Move,Kanakapura,2,,1130.0,2.0,1.0,45.2,2.0,4000.0
+124,Carpet  Area,18-Dec,Hebbal,2,Arcia S,823.0,2.0,1.0,50.63,2.0,6151.883353584447
+125,Super built-up  Area,Ready To Move,Gubbalala,3,MauilTr,1745.0,3.0,2.0,115.0,3.0,6590.25787965616
+126,Built-up  Area,Ready To Move,Bommanahalli,2,,1090.0,3.0,2.0,44.0,2.0,4036.697247706422
+127,Super built-up  Area,Ready To Move,Doddathoguru,2,Arensh ,1030.0,2.0,2.0,42.0,2.0,4077.669902912621
+128,Built-up  Area,Ready To Move,Bhoganhalli,3,Prsun S,1700.0,3.0,2.0,126.0,3.0,7411.764705882353
+129,Built-up  Area,Ready To Move,Bannerghatta Road,2,Haaceal,912.0,2.0,1.0,55.0,2.0,6030.701754385965
+130,Super built-up  Area,Ready To Move,Sarjapur  Road,3,Asncywo,1725.0,3.0,3.0,90.0,3.0,5217.391304347826
+131,Built-up  Area,Ready To Move,5th Phase JP Nagar,3,,1700.0,2.0,3.0,100.0,3.0,5882.35294117647
+132,Super built-up  Area,Ready To Move,Varthur,2,Maine J,977.0,2.0,2.0,36.0,2.0,3684.74923234391
+133,Super built-up  Area,17-Dec,Jakkur,2,BrdgeNo,1290.0,2.0,1.0,100.0,2.0,7751.937984496124
+134,Plot  Area,Ready To Move,other,3,AreraRe,1200.0,3.0,1.0,90.0,3.0,7500.0
+135,Super built-up  Area,Ready To Move,Whitefield,2,BrlisCo,1320.0,2.0,1.0,95.0,2.0,7196.969696969697
+136,Super built-up  Area,Ready To Move,Hosa Road,2,,1243.0,2.0,2.0,48.5,2.0,3901.850362027353
+137,Super built-up  Area,Ready To Move,other,3,,1690.0,3.0,2.0,100.0,3.0,5917.15976331361
+138,Plot  Area,Ready To Move,Ramamurthy Nagar,3,,1330.0,4.0,1.0,140.0,3.0,10526.315789473685
+139,Plot  Area,Ready To Move,Ambedkar Nagar,5,Thessrm,5530.0,5.0,3.0,627.0,5.0,11338.155515370705
+140,Super built-up  Area,19-Jun,Hebbal,3,Raard B,1700.0,3.0,2.0,124.0,3.0,7294.117647058823
+141,Plot  Area,19-Dec,Sarjapura - Attibele Road,4,,1800.0,4.0,,110.0,4.0,6111.111111111111
+142,Built-up  Area,Ready To Move,Vijayanagar,2,,989.0,2.0,0.0,60.0,2.0,6066.734074823054
+143,Super built-up  Area,Ready To Move,Sarjapur  Road,3,Ceiti I,1888.0,4.0,1.0,95.0,3.0,5031.779661016949
+144,Super built-up  Area,Ready To Move,other,2,,1175.0,2.0,1.0,48.0,2.0,4085.1063829787236
+145,Built-up  Area,Ready To Move,Indira Nagar,2,VKvenas,1210.0,2.0,1.0,102.0,2.0,8429.752066115703
+146,Built-up  Area,Ready To Move,other,1,,900.0,1.0,1.0,30.0,1.0,3333.3333333333335
+147,Super built-up  Area,18-Mar,Hosakerehalli,3,SoageHe,1817.0,4.0,,153.0,3.0,8420.473307649972
+148,Super built-up  Area,19-Oct,Kadubeesanahalli,2,,970.0,2.0,1.0,35.0,2.0,3608.2474226804125
+149,Built-up  Area,Ready To Move,other,2,,900.0,2.0,3.0,46.0,2.0,5111.111111111111
+150,Super built-up  Area,18-Jul,Hosa Road,3,Sosisic,1665.0,2.0,3.0,125.0,3.0,7507.507507507507
+151,Super built-up  Area,18-Dec,Kanakapura,2,GoityEt,1295.0,2.0,2.0,64.0,2.0,4942.084942084942
+152,Plot  Area,Ready To Move,Anandapura,2,,1200.0,2.0,1.0,67.0,2.0,5583.333333333333
+153,Built-up  Area,Ready To Move,other,3,Puceswn,1596.0,3.0,0.0,95.0,3.0,5952.380952380952
+154,Built-up  Area,Ready To Move,other,3,ShanaSp,1639.0,3.0,3.0,123.0,3.0,7504.5759609518
+155,Super built-up  Area,Ready To Move,Bellandur,4,Sonyxa ,3016.0,4.0,3.0,230.0,4.0,7625.994694960213
+156,Super built-up  Area,Ready To Move,1st Phase JP Nagar,3,NCaveun,2024.0,3.0,,157.0,3.0,7756.916996047431
+157,Super built-up  Area,Ready To Move,other,2,Sothin ,925.0,2.0,3.0,42.0,2.0,4540.540540540541
+158,Super built-up  Area,Ready To Move,Kannamangala,2,Marnaer,1262.0,2.0,2.0,55.0,2.0,4358.161648177496
+159,Super built-up  Area,Ready To Move,Yelachenahalli,2,BaiseBa,1080.0,2.0,2.0,55.0,2.0,5092.592592592592
+160,Super built-up  Area,Ready To Move,other,2,Jaangm ,1301.0,2.0,2.0,55.0,2.0,4227.517294388932
+161,Super built-up  Area,Ready To Move,other,3,,1500.0,2.0,2.0,89.99,3.0,5999.333333333333
+162,Super built-up  Area,19-Nov,Sarjapur  Road,2,AsastDe,984.0,2.0,1.0,45.91,2.0,4665.650406504065
+163,Super built-up  Area,Ready To Move,Gottigere,3,Pridei ,1500.0,3.0,2.0,70.0,3.0,4666.666666666667
+164,Plot  Area,Ready To Move,Konanakunte,4,,1200.0,4.0,0.0,125.0,4.0,10416.666666666666
+165,Super built-up  Area,Ready To Move,Varthur,3,MKllei ,1665.0,3.0,1.0,53.0,3.0,3183.1831831831832
+166,Super built-up  Area,Ready To Move,other,2,,995.0,2.0,1.0,34.82,2.0,3499.497487437186
+167,Plot  Area,18-Mar,Sarjapur,3,,2238.0,3.0,1.0,140.0,3.0,6255.585344057194
+168,Built-up  Area,Ready To Move,Thubarahalli,2,Soowsa ,975.0,2.0,1.0,55.0,2.0,5641.025641025641
+169,Super built-up  Area,Ready To Move,Electronic City,2,YCnce R,1110.0,2.0,1.0,40.0,2.0,3603.6036036036035
+170,Super built-up  Area,Ready To Move,AECS Layout,2,Srestve,1080.0,2.0,2.0,55.0,2.0,5092.592592592592
+171,Super built-up  Area,Ready To Move,Rachenahalli,2,,1224.0,2.0,3.0,39.2,2.0,3202.614379084968
+172,Super built-up  Area,Ready To Move,Thanisandra,4,Soitya ,3216.0,4.0,1.0,226.0,4.0,7027.363184079602
+173,Super built-up  Area,Ready To Move,Bisuvanahalli,3,Prityel,1075.0,2.0,1.0,50.0,3.0,4651.162790697675
+174,Super built-up  Area,Ready To Move,Marathahalli,3,Valdsic,1550.0,3.0,2.0,83.0,3.0,5354.8387096774195
+175,Super built-up  Area,19-Oct,Hebbal,3,SNontle,2600.0,3.0,2.0,195.0,3.0,7500.0
+176,Super built-up  Area,Ready To Move,Yelahanka,3,,1180.0,3.0,1.0,55.0,3.0,4661.016949152542
+177,Built-up  Area,Ready To Move,Frazer Town,3,Clint E,1900.0,4.0,2.0,145.0,3.0,7631.578947368421
+178,Super built-up  Area,Ready To Move,Kudlu Gate,3,Srier P,1532.0,3.0,2.0,83.0,3.0,5417.754569190601
+179,Super built-up  Area,Ready To Move,other,3,SoliaMa,2000.0,3.0,2.0,160.0,3.0,8000.0
+180,Super built-up  Area,Ready To Move,Prithvi Layout,2,Prlmsge,1352.0,2.0,2.0,75.0,2.0,5547.337278106509
+181,Super built-up  Area,Ready To Move,Hoskote,3,Thiced ,1740.0,3.0,3.0,60.0,3.0,3448.2758620689656
+182,Super built-up  Area,Ready To Move,Neeladri Nagar,2,,1060.0,2.0,0.0,35.0,2.0,3301.8867924528304
+183,Super built-up  Area,Ready To Move,Uttarahalli,3,Evood S,1300.0,2.0,2.0,60.0,3.0,4615.384615384615
+184,Built-up  Area,Ready To Move,other,2,,1000.0,2.0,2.0,45.0,2.0,4500.0
+185,Super built-up  Area,Ready To Move,HSR Layout,3,RotatHa,1600.0,2.0,2.0,115.0,3.0,7187.5
+186,Super built-up  Area,Ready To Move,Whitefield,2,Veales ,1320.0,2.0,3.0,79.5,2.0,6022.727272727273
+187,Plot  Area,Ready To Move,Mahadevpura,5,,3295.0,4.0,2.0,260.0,5.0,7890.743550834598
+188,Built-up  Area,Ready To Move,Hebbal Kempapura,2,Goateds,1300.0,2.0,2.0,102.0,2.0,7846.153846153846
+189,Super built-up  Area,Ready To Move,Hulimavu,2,RatosAr,1255.0,2.0,2.0,69.0,2.0,5498.00796812749
+190,Super built-up  Area,Ready To Move,other,2,Goourta,1505.0,2.0,2.0,90.0,2.0,5980.066445182724
+191,Super built-up  Area,Ready To Move,Bannerghatta Road,2,Saavenc,1100.0,2.0,0.0,39.0,2.0,3545.4545454545455
+192,Super built-up  Area,Ready To Move,other,2,,1100.0,2.0,2.0,38.0,2.0,3454.5454545454545
+193,Super built-up  Area,Ready To Move,Jigani,2,DLhtsen,923.0,2.0,1.0,50.0,2.0,5417.118093174431
+194,Built-up  Area,Ready To Move,Yeshwanthpur,3,,3027.0,4.0,3.0,260.0,3.0,8589.362405021473
+195,Super built-up  Area,Ready To Move,Hebbal,3,Mahosya,1760.0,3.0,2.0,123.0,3.0,6988.636363636364
+196,Built-up  Area,Ready To Move,Ramagondanahalli,4,,2800.0,4.0,3.0,155.0,4.0,5535.714285714285
+197,Super built-up  Area,Ready To Move,Begur Road,3,Dhalsh ,1410.0,2.0,3.0,50.06,3.0,3550.354609929078
+198,Plot  Area,Ready To Move,other,3,,1800.0,2.0,0.0,72.0,3.0,4000.0
+199,Built-up  Area,Ready To Move,Hormavu,2,Naandit,1150.0,2.0,1.0,53.11,2.0,4618.260869565217
+200,Super built-up  Area,Ready To Move,Cox Town,3,ElentAp,1730.0,3.0,3.0,140.0,3.0,8092.485549132948
+201,Super built-up  Area,Ready To Move,Koramangala,3,Gencysi,1900.0,3.0,3.0,150.0,3.0,7894.736842105263
+202,Super built-up  Area,18-May,Whitefield,2,SMuilan,1109.0,2.0,1.0,41.49,2.0,3741.2082957619477
+203,Super built-up  Area,19-Jun,Hebbal,3,Raard B,1645.0,3.0,2.0,120.0,3.0,7294.83282674772
+204,Super built-up  Area,Ready To Move,other,3,Goourta,2600.0,3.0,2.0,140.0,3.0,5384.615384615385
+205,Super built-up  Area,Ready To Move,other,3,Keony H,2431.0,3.0,1.0,100.0,3.0,4113.533525298231
+206,Super built-up  Area,Ready To Move,Koramangala,2,Saace P,1320.0,2.0,2.0,110.0,2.0,8333.333333333334
+207,Super built-up  Area,Ready To Move,other,3,,1900.0,3.0,2.0,205.0,3.0,10789.473684210527
+208,Super built-up  Area,Ready To Move,Kalyan nagar,4,Satle C,2422.0,3.0,2.0,150.0,4.0,6193.228736581338
+209,Super built-up  Area,Ready To Move,Thubarahalli,2,Adity S,1085.0,2.0,1.0,70.0,2.0,6451.612903225807
+210,Super built-up  Area,19-Jul,Sarjapur  Road,2,Frhtsr ,1190.0,2.0,1.0,50.0,2.0,4201.680672268908
+211,Plot  Area,Ready To Move,Attibele,3,,1350.0,3.0,1.0,85.0,3.0,6296.2962962962965
+212,Super built-up  Area,18-Apr,Yelahanka,1,Prensya,654.0,1.0,1.0,37.0,1.0,5657.492354740061
+213,Super built-up  Area,Ready To Move,other,3,,1082.0,2.0,0.0,42.0,3.0,3881.7005545286506
+214,Built-up  Area,Ready To Move,other,3,,1636.0,3.0,2.0,97.0,3.0,5929.095354523228
+215,Super built-up  Area,Ready To Move, Devarachikkanahalli,2,,1170.0,2.0,2.0,40.0,2.0,3418.803418803419
+216,Plot  Area,18-Feb,other,3,V2gesre,1200.0,3.0,2.0,72.0,3.0,6000.0
+217,Super built-up  Area,Ready To Move,other,2,,1100.0,2.0,2.0,47.0,2.0,4272.727272727273
+218,Built-up  Area,Ready To Move,Sarjapur  Road,5,Reyle L,3200.0,5.0,3.0,140.0,5.0,4375.0
+219,Super built-up  Area,Ready To Move,Seegehalli,4,,2800.0,4.0,3.0,140.0,4.0,5000.0
+220,Super built-up  Area,Ready To Move,Kengeri,2,,900.0,2.0,0.0,30.0,2.0,3333.3333333333335
+221,Plot  Area,Ready To Move,Yeshwanthpur,4,,1200.0,4.0,1.0,110.0,4.0,9166.666666666666
+222,Super built-up  Area,Ready To Move,Begur Road,3,Dhalsh ,1410.0,2.0,3.0,53.58,3.0,3800.0
+223,Super built-up  Area,19-Dec,Jakkur,2,Ceezey ,1483.0,2.0,1.0,98.0,2.0,6608.226567768038
+224,Built-up  Area,Ready To Move,Kanakpura Road,2,PuandHi,1340.0,2.0,2.0,60.0,2.0,4477.611940298508
+225,Built-up  Area,18-Apr,Hegde Nagar,3,SoisoCa,2162.0,3.0,1.0,200.0,3.0,9250.693802035152
+226,Super built-up  Area,18-Jan,Kadugodi,2,Prclee ,1030.0,2.0,1.0,35.02,2.0,3400.0000000000005
+227,Super built-up  Area,19-Dec,Electronics City Phase 1,2,Shitt S,1335.0,2.0,2.0,67.0,2.0,5018.7265917603
+228,Super built-up  Area,18-Jul,8th Phase JP Nagar,1,Maian M,500.0,1.0,1.0,31.0,1.0,6200.0
+229,Super built-up  Area,Ready To Move,other,3,,1800.0,3.0,2.0,88.0,3.0,4888.888888888889
+230,Built-up  Area,Ready To Move,Electronic City Phase II,2,SJmesst,1253.0,2.0,1.0,65.8,2.0,5251.3966480446925
+231,Super built-up  Area,Ready To Move,Raja Rajeshwari Nagar,3,7 ise P,1430.0,2.0,1.0,50.0,3.0,3496.5034965034965
+232,Super built-up  Area,19-Dec,Old Madras Road,2,SheldGr,1065.0,2.0,1.0,47.86,2.0,4493.896713615023
+233,Built-up  Area,Ready To Move,Kalyan nagar,3,,1410.0,2.0,2.0,60.0,3.0,4255.31914893617
+234,Super built-up  Area,Ready To Move,other,2,Shvarji,797.0,2.0,1.0,32.0,2.0,4015.056461731493
+235,Built-up  Area,17-Dec,Electronic City,1,Prarkun,630.0,1.0,1.0,60.0,1.0,9523.809523809523
+236,Built-up  Area,Ready To Move,Sarjapur  Road,3,Adntsra,2556.0,3.0,2.0,169.0,3.0,6611.89358372457
+237,Super built-up  Area,Ready To Move,other,3,,1519.0,3.0,2.0,67.23,3.0,4425.938117182357
+238,Super built-up  Area,22-May,Jakkur,4,SoineC ,3405.1,6.0,3.0,400.0,4.0,11747.085254471234
+239,Super built-up  Area,Ready To Move,BTM 2nd Stage,2,Vincyat,1000.0,2.0,2.0,58.0,2.0,5800.0
+240,Super built-up  Area,Ready To Move,Hebbal,2,,1250.0,2.0,1.0,55.55,2.0,4444.0
+241,Super built-up  Area,18-Dec,Marathahalli,2,Unezes ,881.0,2.0,1.0,48.06,2.0,5455.16458569807
+242,Super built-up  Area,18-Dec,Iblur Village,3,DNionfl,2100.0,4.0,2.0,145.0,3.0,6904.761904761905
+243,Built-up  Area,Ready To Move,Sarjapur  Road,3,MJinele,1374.0,3.0,2.0,51.0,3.0,3711.7903930131006
+244,Super built-up  Area,Ready To Move,Harlur,3,Shodsir,1620.0,3.0,1.0,110.0,3.0,6790.123456790124
+245,Super built-up  Area,19-Dec,other,3,,2005.0,3.0,2.0,240.0,3.0,11970.074812967581
+246,Built-up  Area,Ready To Move,Vidyaranyapura,3,DSestil,1440.0,2.0,0.0,70.0,3.0,4861.111111111111
+247,Super built-up  Area,Ready To Move,Doddakallasandra,3,,1425.0,2.0,2.0,56.99,3.0,3999.2982456140353
+248,Super built-up  Area,Ready To Move,Hebbal,3,Prersis,1987.0,4.0,2.0,165.0,3.0,8303.975842979366
+249,Super built-up  Area,Ready To Move,other,2,,1100.0,2.0,2.0,46.0,2.0,4181.818181818182
+250,Super built-up  Area,18-May,Bommasandra,2,SSestth,920.0,2.0,1.0,37.2,2.0,4043.478260869566
+251,Super built-up  Area,18-Jul,Hosur Road,3,PuendWe,1689.0,3.0,1.0,103.0,3.0,6098.283007696862
+252,Super built-up  Area,Ready To Move,Magadi Road,3,Vrenty ,1191.0,2.0,1.0,55.38,3.0,4649.8740554156175
+253,Super built-up  Area,Ready To Move,CV Raman Nagar,3,Keera R,1525.0,2.0,3.0,67.0,3.0,4393.44262295082
+254,Super built-up  Area,Ready To Move,other,3,,1464.0,3.0,3.0,56.0,3.0,3825.136612021858
+255,Built-up  Area,Ready To Move,Uttarahalli,3,,1480.0,2.0,1.0,58.0,3.0,3918.9189189189187
+256,Super built-up  Area,Ready To Move,other,2,Paarklu,1206.0,2.0,1.0,53.0,2.0,4394.69320066335
+257,Plot  Area,Ready To Move,Seegehalli,3,Stndeil,3000.0,5.0,2.0,335.0,3.0,11166.666666666666
+258,Super built-up  Area,19-Dec,other,3,Prard B,1594.0,3.0,2.0,99.0,3.0,6210.790464240903
+259,Super built-up  Area,Ready To Move,Lingadheeranahalli,3,Soiewre,1682.0,3.0,1.0,113.0,3.0,6718.192627824019
+260,Built-up  Area,18-Aug,Thanisandra,3,Bhmesy ,1595.0,3.0,1.0,110.0,3.0,6896.551724137931
+261,Super built-up  Area,18-Dec,Bannerghatta Road,2,Uncioe ,1268.0,2.0,1.0,69.0,2.0,5441.640378548896
+262,Super built-up  Area,Ready To Move,Sarjapur  Road,3,DSndsod,1660.0,2.0,2.0,116.0,3.0,6987.951807228916
+263,Super built-up  Area,18-Jun,Kothannur,3,,1275.0,3.0,2.0,44.0,3.0,3450.9803921568628
+264,Super built-up  Area,Ready To Move,Kundalahalli,2,Dieldli,1047.0,2.0,1.0,91.0,2.0,8691.499522445081
+265,Super built-up  Area,Ready To Move,Sarjapur  Road,3,CoLeoen,1539.0,3.0,,85.0,3.0,5523.066926575699
+266,Super built-up  Area,Ready To Move,OMBR Layout,2,,1050.0,2.0,3.0,48.0,2.0,4571.428571428572
+267,Super built-up  Area,Ready To Move,other,1,,600.0,2.0,0.0,23.0,1.0,3833.3333333333335
+268,Super built-up  Area,19-Dec,JP Nagar,3,Shestut,1750.0,3.0,1.0,123.0,3.0,7028.571428571428
+269,Super built-up  Area,Ready To Move,Koramangala,2,,1083.0,2.0,1.0,100.0,2.0,9233.610341643584
+270,Super built-up  Area,19-Mar,8th Phase JP Nagar,3,Vaarech,1431.5,3.0,0.0,72.02,3.0,5031.086273140063
+271,Built-up  Area,Ready To Move,Singasandra,2,,1375.0,2.0,3.0,58.0,2.0,4218.181818181818
+272,Built-up  Area,Ready To Move,Horamavu Agara,2,,980.0,2.0,1.0,38.19,2.0,3896.938775510204
+273,Super built-up  Area,Ready To Move,Uttarahalli,3,,1255.0,2.0,2.0,50.19,3.0,3999.203187250996
+274,Super built-up  Area,18-Jan,Hennur Road,2,Puachal,1232.0,2.0,1.0,74.0,2.0,6006.493506493506
+275,Super built-up  Area,Ready To Move,Thigalarapalya,3,Prtanha,2072.0,4.0,2.0,160.0,3.0,7722.007722007722
+276,Super built-up  Area,18-May,Haralur Road,2,,1194.0,2.0,2.0,47.0,2.0,3936.348408710218
+277,Built-up  Area,Ready To Move,other,4,,1200.0,4.0,1.0,140.0,4.0,11666.666666666666
+278,Super built-up  Area,19-Mar,Hennur Road,2,Puachal,1341.0,2.0,1.0,95.0,2.0,7084.265473527218
+279,Plot  Area,Ready To Move,other,2,,600.0,2.0,2.0,39.0,2.0,6500.0
+280,Super built-up  Area,Ready To Move,Mallasandra,2,GMilse ,1325.0,2.0,,65.0,2.0,4905.66037735849
+281,Super built-up  Area,Ready To Move,Bommanahalli,4,Alarke ,2100.0,4.0,2.0,85.0,4.0,4047.6190476190477
+282,Super built-up  Area,18-May,Banashankari Stage V,3,Naiewre,1650.0,3.0,2.0,51.98,3.0,3150.3030303030305
+283,Built-up  Area,Ready To Move,8th Phase JP Nagar,4,,1200.0,4.0,1.0,140.0,4.0,11666.666666666666
+284,Super built-up  Area,19-Apr,Ambalipura,2,Sisice ,950.0,2.0,1.0,31.95,2.0,3363.157894736842
+285,Super built-up  Area,Ready To Move,Sarjapur  Road,3,CoLeoen,1457.0,3.0,3.0,85.0,3.0,5833.905284831846
+286,Super built-up  Area,Ready To Move,Kanakpura Road,3,,1691.2,3.0,1.0,115.0,3.0,6799.905392620624
+287,Super built-up  Area,18-May,Ramagondanahalli,3,ViistLa,1475.0,2.0,2.0,63.0,3.0,4271.186440677966
+288,Super built-up  Area,Ready To Move,Hebbal,3,Brium C,3450.0,5.0,0.0,348.0,3.0,10086.95652173913
+289,Super built-up  Area,Ready To Move,other,2,,1200.0,2.0,2.0,52.0,2.0,4333.333333333333
+290,Super built-up  Area,Ready To Move,Kathriguppe,3,,1250.0,2.0,2.0,68.75,3.0,5500.0
+291,Super built-up  Area,18-Apr,Thanisandra,2,Bhmesy ,1265.0,2.0,1.0,83.0,2.0,6561.264822134387
+292,Super built-up  Area,Ready To Move,other,3,SoniaPe,2274.24,4.0,1.0,160.0,3.0,7035.317292809907
+293,Super built-up  Area,Ready To Move,Bharathi Nagar,2,FoapeWa,1351.0,2.0,2.0,74.0,2.0,5477.424130273871
+294,Built-up  Area,Ready To Move,Margondanahalli,2,,1140.0,2.0,1.0,60.0,2.0,5263.1578947368425
+295,Plot  Area,Ready To Move,other,3,,1313.0,4.0,,150.0,3.0,11424.219345011425
+296,Super built-up  Area,Ready To Move,Uttarahalli,3,,1350.0,2.0,2.0,47.24,3.0,3499.259259259259
+297,Super built-up  Area,18-Apr,other,3,,1215.0,2.0,2.0,49.75,3.0,4094.650205761317
+298,Built-up  Area,Ready To Move,other,2,SMncyy ,1050.0,2.0,1.0,55.0,2.0,5238.0952380952385
+299,Plot  Area,Ready To Move,other,6,,2400.0,5.0,2.0,300.0,6.0,12500.0
+300,Built-up  Area,Ready To Move,Kumaraswami Layout,4,,2600.0,4.0,0.0,325.0,4.0,12500.0
+301,Built-up  Area,Ready To Move,Anjanapura,2,ACopsva,950.0,2.0,0.0,32.0,2.0,3368.4210526315787
+302,Built-up  Area,17-Mar,other,3,Sreat R,3200.0,3.0,0.0,260.0,3.0,8125.0
+303,Super built-up  Area,Ready To Move,Bisuvanahalli,2,Prityel,945.0,2.0,1.0,33.0,2.0,3492.063492063492
+304,Super built-up  Area,Ready To Move,other,4,Soeurri,3754.0,6.0,2.0,480.0,4.0,12786.361214704315
+305,Built-up  Area,Ready To Move,Uttarahalli,2,DSera S,1002.0,2.0,1.0,40.08,2.0,4000.0
+306,Super built-up  Area,Ready To Move,Mysore Road,2,,1020.0,2.0,2.0,48.95,2.0,4799.019607843137
+307,Super built-up  Area,Ready To Move,Thanisandra,3,Soitya ,1795.0,3.0,2.0,150.0,3.0,8356.545961002785
+308,Built-up  Area,Ready To Move,other,4,Sohid O,3500.0,2.0,1.0,350.0,4.0,10000.0
+309,Super built-up  Area,Ready To Move,Sahakara Nagar,3,,2200.0,3.0,2.0,98.0,3.0,4454.545454545455
+310,Super built-up  Area,Ready To Move,Dasarahalli,2,Indesve,1375.0,2.0,1.0,60.0,2.0,4363.636363636364
+311,Super built-up  Area,Ready To Move,Whitefield,2,SMuilan,1109.0,2.0,1.0,35.47,2.0,3198.376916140667
+312,Built-up  Area,Ready To Move,Vidyaranyapura,2,,945.0,2.0,,40.0,2.0,4232.804232804233
+313,Super built-up  Area,Ready To Move,other,2,Riave E,1000.0,2.0,1.0,45.0,2.0,4500.0
+314,Built-up  Area,Ready To Move,Bisuvanahalli,2,Prityel,845.0,2.0,1.0,30.0,2.0,3550.2958579881656
+315,Super built-up  Area,Ready To Move,Marathahalli,2,Srers T,1200.0,2.0,1.0,53.0,2.0,4416.666666666667
+316,Super built-up  Area,19-Jun,Bannerghatta Road,3,Saenett,1894.0,3.0,1.0,115.0,3.0,6071.805702217529
+317,Super built-up  Area,21-Dec,Talaghattapura,3,Sodgere,2273.0,3.0,3.0,159.0,3.0,6995.160580730312
+318,Super built-up  Area,18-May,Bommanahalli,3,,1250.0,3.0,2.0,41.0,3.0,3280.0
+319,Super built-up  Area,Ready To Move,Kengeri,2,,1000.0,2.0,2.0,34.0,2.0,3400.0
+320,Super built-up  Area,Ready To Move,Sarjapur  Road,4,Puallhi,2425.0,5.0,1.0,201.0,4.0,8288.659793814433
+321,Super built-up  Area,17-Oct,Banashankari Stage V,3,Naiewre,1510.0,3.0,3.0,47.57,3.0,3150.3311258278145
+322,Built-up  Area,Ready To Move,Laggere,1,,620.0,2.0,0.0,48.0,1.0,7741.935483870968
+323,Built-up  Area,Ready To Move,KR Puram,4,,1200.0,4.0,0.0,83.0,4.0,6916.666666666667
+324,Super built-up  Area,18-Aug,other,3,MaitySe,1280.0,2.0,1.0,100.0,3.0,7812.5
+325,Super built-up  Area,Ready To Move,Hebbal,3,Arcia S,1110.0,3.0,3.0,59.0,3.0,5315.315315315315
+326,Super built-up  Area,Ready To Move,Electronic City Phase II,3,Rie 2ri,1502.0,3.0,3.0,50.0,3.0,3328.894806924101
+327,Super built-up  Area,Ready To Move,Uttarahalli,2,,1025.0,2.0,1.0,35.88,2.0,3500.4878048780492
+328,Super built-up  Area,18-Jun,Ramagondanahalli,2,ViistLa,1151.0,2.0,2.0,43.6,2.0,3788.010425716768
+329,Super built-up  Area,Ready To Move,other,2,,1000.0,2.0,2.0,35.0,2.0,3500.0
+330,Built-up  Area,Ready To Move,Electronic City Phase II,4,Rie 2 P,1900.0,3.0,1.0,97.0,4.0,5105.263157894737
+331,Super built-up  Area,Ready To Move,Sarjapur,2,,1032.0,2.0,1.0,42.0,2.0,4069.767441860465
+332,Super built-up  Area,18-Aug,Murugeshpalya,2,,1225.0,2.0,2.0,48.0,2.0,3918.3673469387754
+333,Super built-up  Area,18-Jun,Hosur Road,3,PuendWe,1689.0,3.0,2.0,103.0,3.0,6098.283007696862
+334,Super built-up  Area,18-Dec,Hebbal,2,Magiaya,985.0,2.0,2.0,62.0,2.0,6294.416243654822
+335,Super built-up  Area,Ready To Move,Banashankari Stage V,3,,1315.0,2.0,2.0,49.0,3.0,3726.235741444867
+336,Built-up  Area,Ready To Move,Whitefield,2,,1197.0,2.0,1.0,50.0,2.0,4177.109440267335
+337,Super built-up  Area,Ready To Move,Bannerghatta Road,4,Anineu ,3230.0,5.0,0.0,165.0,4.0,5108.359133126935
+338,Super built-up  Area,Ready To Move,other,3,Sothin ,1850.0,3.0,3.0,95.0,3.0,5135.135135135135
+339,Super built-up  Area,Ready To Move,Bellandur,2,Srdids ,1150.0,2.0,1.0,69.44,2.0,6038.260869565217
+340,Super built-up  Area,19-Dec,Hebbal,2,Raard B,1320.0,2.0,1.0,91.0,2.0,6893.939393939394
+341,Super built-up  Area,Ready To Move,Bannerghatta Road,1,,630.0,1.0,2.0,35.0,1.0,5555.555555555556
+342,Super built-up  Area,18-Apr,other,2,Sariana,1256.0,2.0,1.0,65.0,2.0,5175.15923566879
+343,Built-up  Area,Ready To Move,R.T. Nagar,2,,1100.0,3.0,0.0,125.0,2.0,11363.636363636364
+344,Built-up  Area,Ready To Move,Talaghattapura,2,,1100.0,2.0,0.0,50.0,2.0,4545.454545454545
+345,Super built-up  Area,Ready To Move,Kanakpura Road,3,Wiowsri,1450.0,2.0,2.0,62.93,3.0,4340.0
+346,Built-up  Area,Ready To Move,HSR Layout,5,,3500.0,5.0,0.0,350.0,5.0,10000.0
+347,Plot  Area,Ready To Move,NRI Layout,2,,1250.0,2.0,0.0,75.0,2.0,6000.0
+348,Built-up  Area,Ready To Move,Indira Nagar,3,Monorh ,1500.0,3.0,3.0,120.0,3.0,8000.0
+349,Super built-up  Area,Ready To Move,Whitefield,2,Iseenst,1227.0,2.0,2.0,70.0,2.0,5704.9714751426245
+350,Super built-up  Area,Ready To Move,Devanahalli,2,,1045.0,2.0,2.0,48.0,2.0,4593.301435406698
+351,Super built-up  Area,18-Aug,Electronic City,2,Prarkun,1128.0,2.0,1.0,65.4,2.0,5797.8723404255325
+352,Super built-up  Area,Ready To Move,Bisuvanahalli,3,Prityel,1180.0,2.0,1.0,55.5,3.0,4703.389830508475
+353,Super built-up  Area,Ready To Move,Gubbalala,2,MauilTr,1475.0,2.0,2.0,80.0,2.0,5423.728813559322
+354,Super built-up  Area,Ready To Move,Yeshwanthpur,2,IBityin,1165.0,2.0,1.0,85.0,2.0,7296.137339055794
+355,Built-up  Area,18-Apr,Varthur,2,Uptusol,1155.0,2.0,1.0,60.0,2.0,5194.805194805195
+356,Super built-up  Area,Ready To Move,8th Phase JP Nagar,2,MBodsen,1089.0,2.0,1.0,43.55,2.0,3999.0817263544536
+357,Built-up  Area,Ready To Move,Basavangudi,2,,1050.0,2.0,1.0,103.0,2.0,9809.52380952381
+358,Super built-up  Area,20-Oct,Kanakpura Road,2,PrarePa,700.0,2.0,1.0,41.0,2.0,5857.142857142857
+359,Super built-up  Area,18-May,Old Madras Road,2,Saesttt,1157.0,2.0,2.0,47.32,2.0,4089.887640449438
+360,Super built-up  Area,Ready To Move,other,3,Skarkev,1720.0,2.0,2.0,126.0,3.0,7325.581395348837
+361,Super built-up  Area,Ready To Move,Basavangudi,3,,1350.0,2.0,2.0,130.0,3.0,9629.62962962963
+362,Built-up  Area,Ready To Move,5th Phase JP Nagar,2,Matonr ,1030.0,2.0,2.0,57.0,2.0,5533.980582524272
+363,Super built-up  Area,Ready To Move,Kanakpura Road,3,JRrnauv,1570.0,3.0,3.0,65.93,3.0,4199.363057324841
+364,Super built-up  Area,Ready To Move,Kundalahalli,2,Dieldli,1047.0,2.0,1.0,72.0,2.0,6876.790830945559
+365,Plot  Area,Ready To Move,Mico Layout,4,,3600.0,4.0,,330.0,4.0,9166.666666666666
+366,Super built-up  Area,Ready To Move,other,3,TrryaAi,1237.0,3.0,2.0,78.0,3.0,6305.578011317704
+367,Super built-up  Area,Ready To Move,Whitefield,3,Gotis A,1720.0,3.0,3.0,98.97,3.0,5754.069767441861
+368,Plot  Area,Ready To Move,other,4,,1200.0,2.0,1.0,140.0,4.0,11666.666666666666
+369,Super built-up  Area,21-Jun,Vijayanagar,1,Saahaat,492.0,1.0,1.0,40.0,1.0,8130.081300813008
+370,Super built-up  Area,Ready To Move,Hormavu,2,,1129.0,2.0,1.0,44.0,2.0,3897.2542072630645
+371,Built-up  Area,Ready To Move,Ananth Nagar,2,,810.0,2.0,1.0,25.5,2.0,3148.1481481481483
+372,Built-up  Area,Ready To Move,Kasavanhalli,3,,2110.0,4.0,3.0,120.0,3.0,5687.203791469195
+373,Super built-up  Area,Ready To Move,Ambalipura,4,,2750.0,4.0,,142.0,4.0,5163.636363636364
+374,Super built-up  Area,Ready To Move,Electronic City,2,Prarkun,1108.0,2.0,1.0,63.0,2.0,5685.9205776173285
+375,Super built-up  Area,Ready To Move,other,3,,1560.0,2.0,2.0,125.0,3.0,8012.820512820513
+376,Super built-up  Area,Ready To Move,Budigere,3,PrityTr,1636.0,3.0,2.0,83.0,3.0,5073.349633251833
+377,Plot  Area,Ready To Move,Vishveshwarya Layout,4,,2000.0,3.0,0.0,90.0,4.0,4500.0
+378,Built-up  Area,Ready To Move,Yeshwanthpur,1,,650.0,1.0,0.0,40.0,1.0,6153.846153846154
+379,Built-up  Area,Ready To Move,Marathahalli,3,,1700.0,3.0,2.0,126.0,3.0,7411.764705882353
+380,Plot  Area,Ready To Move,Laggere,5,,1800.0,5.0,0.0,70.0,5.0,3888.8888888888887
+381,Super built-up  Area,18-May,Hennur Road,3,Puachal,1482.0,2.0,1.0,68.9,3.0,4649.122807017545
+382,Super built-up  Area,Ready To Move,Bharathi Nagar,2,ReudePr,1349.0,2.0,2.0,56.7,2.0,4203.113417346182
+383,Plot  Area,Ready To Move,Sarjapur  Road,4,,3200.0,4.0,1.0,350.0,4.0,10937.5
+384,Built-up  Area,Ready To Move,Malleshwaram,2,Beesta ,900.0,2.0,1.0,72.0,2.0,8000.0
+385,Super built-up  Area,Ready To Move,other,2,,1330.0,2.0,2.0,80.0,2.0,6015.037593984963
+386,Super built-up  Area,Ready To Move,other,2,EsadeNS,1000.0,2.0,1.0,50.0,2.0,5000.0
+387,Super built-up  Area,Ready To Move,Seegehalli,3,Niowshi,1683.0,3.0,3.0,80.0,3.0,4753.416518122401
+388,Super built-up  Area,Ready To Move,Kasavanhalli,2,,1069.0,2.0,2.0,55.0,2.0,5144.9953227315245
+389,Super built-up  Area,19-Sep,Hennur Road,3,Orens G,1450.0,3.0,1.0,88.6,3.0,6110.3448275862065
+390,Super built-up  Area,18-Jul,7th Phase JP Nagar,3,,2000.0,3.0,2.0,77.0,3.0,3850.0
+391,Super built-up  Area,Ready To Move,Iblur Village,5,Emine P,5384.0,5.0,3.0,420.0,5.0,7800.891530460624
+392,Super built-up  Area,Ready To Move,Iblur Village,4,Emine P,3596.0,5.0,1.0,297.0,4.0,8259.176863181312
+393,Super built-up  Area,Ready To Move,Jigani,3,DLhtsen,1252.0,3.0,3.0,70.0,3.0,5591.054313099042
+394,Super built-up  Area,Ready To Move,Sarjapur  Road,3,Adeatlm,2275.0,4.0,2.0,175.0,3.0,7692.307692307692
+395,Super built-up  Area,Ready To Move,Hoodi,3,SMaxyay,1715.0,2.0,2.0,100.0,3.0,5830.903790087464
+396,Super built-up  Area,Ready To Move,Sarjapur  Road,3,Klark L,1691.0,3.0,2.0,93.01,3.0,5500.295683027794
+397,Built-up  Area,Ready To Move,other,2,,1200.0,2.0,1.0,75.0,2.0,6250.0
+398,Super built-up  Area,Ready To Move,Electronics City Phase 1,2,,1300.0,2.0,1.0,67.0,2.0,5153.846153846154
+399,Super built-up  Area,Ready To Move,other,3,,1030.0,2.0,2.0,77.25,3.0,7500.0
+400,Super built-up  Area,Ready To Move,Kalyan nagar,3,,2285.0,4.0,1.0,165.0,3.0,7221.006564551422
+401,Built-up  Area,Ready To Move,other,5,,4400.0,5.0,3.0,240.0,5.0,5454.545454545455
+402,Super built-up  Area,Ready To Move,other,3,,2000.0,3.0,2.0,100.0,3.0,5000.0
+403,Super built-up  Area,Ready To Move,Akshaya Nagar,2,DLhtsnd,1225.0,2.0,0.0,68.0,2.0,5551.0204081632655
+404,Super built-up  Area,18-May,Rajaji Nagar,2,Pumesim,1222.0,2.0,2.0,98.0,2.0,8019.639934533551
+405,Plot  Area,Ready To Move,Jalahalli,1,,600.0,1.0,0.0,37.0,1.0,6166.666666666667
+406,Super built-up  Area,Ready To Move,other,4,IDldsin,2950.0,4.0,2.0,250.0,4.0,8474.57627118644
+407,Super built-up  Area,Ready To Move,Harlur,3,SrEndPo,1710.0,3.0,3.0,85.0,3.0,4970.7602339181285
+408,Super built-up  Area,Ready To Move,Kodichikkanahalli,3,Jae 1ke,1310.0,2.0,2.0,53.0,3.0,4045.8015267175574
+409,Super built-up  Area,Ready To Move,Subramanyapura,3,Mayne A,1260.0,2.0,1.0,80.0,3.0,6349.206349206349
+410,Built-up  Area,Ready To Move,Kodichikkanahalli,2,,1680.0,2.0,3.0,59.0,2.0,3511.904761904762
+411,Built-up  Area,Ready To Move,Sarjapur  Road,2,Srntssh,1130.0,2.0,2.0,55.0,2.0,4867.256637168141
+412,Super built-up  Area,Ready To Move,Kalena Agrahara,2,PrncyRe,800.0,2.0,1.0,40.0,2.0,5000.0
+413,Super built-up  Area,19-Jul,Kanakpura Road,2,Soazak ,1698.0,2.0,1.0,105.0,2.0,6183.745583038869
+414,Super built-up  Area,Ready To Move,Sarjapur,2,Sondaka,920.0,2.0,2.0,33.0,2.0,3586.9565217391305
+415,Super built-up  Area,Ready To Move,Lakshminarayana Pura,2,RothaVa,1180.0,2.0,1.0,75.0,2.0,6355.932203389831
+416,Super built-up  Area,Ready To Move,ISRO Layout,3,Oaines ,1370.0,2.0,2.0,87.0,3.0,6350.36496350365
+417,Plot  Area,Ready To Move,other,2,,1050.0,2.0,0.0,40.0,2.0,3809.5238095238096
+418,Super built-up  Area,Ready To Move,Kanakpura Road,3,,1200.0,2.0,2.0,42.0,3.0,3500.0
+419,Super built-up  Area,19-Jul,Ramamurthy Nagar,2,Vaharvi,1050.0,2.0,1.0,51.66,2.0,4920.0
+420,Super built-up  Area,Ready To Move,Banashankari,2,,1450.0,2.0,2.0,50.75,2.0,3500.0
+421,Super built-up  Area,Ready To Move,other,3,,1426.0,2.0,3.0,71.0,3.0,4978.962131837307
+422,Super built-up  Area,18-Dec,Channasandra,2,MVisear,830.0,2.0,1.0,36.28,2.0,4371.084337349397
+423,Built-up  Area,Ready To Move,Jalahalli,2,,1000.0,2.0,0.0,70.0,2.0,7000.0
+424,Super built-up  Area,Ready To Move,Yelahanka New Town,2,,1100.0,2.0,1.0,58.0,2.0,5272.727272727273
+425,Super built-up  Area,Ready To Move,Ulsoor,3,,1685.0,4.0,2.0,185.0,3.0,10979.228486646884
+426,Super built-up  Area,19-Dec,Kanakapura,1,GoityEt,938.0,1.0,1.0,50.0,1.0,5330.490405117271
+427,Super built-up  Area,Ready To Move,Hebbal,2,Prersis,1299.0,2.0,1.0,97.0,2.0,7467.282525019245
+428,Super built-up  Area,Ready To Move,Hulimavu,1,,581.0,1.0,1.0,29.0,1.0,4991.394148020654
+429,Super built-up  Area,17-Jun,Electronic City,3,Prarkun,1644.0,3.0,2.0,92.59,3.0,5631.995133819952
+430,Super built-up  Area,Ready To Move,other,3,Prvaska,1182.0,2.0,1.0,60.1,3.0,5084.602368866328
+431,Super built-up  Area,18-May,Bharathi Nagar,2,,1120.0,2.0,2.0,39.29,2.0,3508.035714285714
+432,Super built-up  Area,Ready To Move,7th Phase JP Nagar,3,Eladero,1765.0,3.0,2.0,118.0,3.0,6685.552407932011
+433,Super built-up  Area,19-Dec,Hebbal,4,Raard B,2470.0,5.0,2.0,192.0,4.0,7773.27935222672
+434,Super built-up  Area,Ready To Move,LB Shastri Nagar,2,MCrds S,1184.0,2.0,1.0,62.0,2.0,5236.486486486487
+435,Super built-up  Area,18-May,Horamavu Agara,2,,1166.0,2.0,1.0,37.29,2.0,3198.1132075471696
+436,Super built-up  Area,Ready To Move,Somasundara Palya,3,ManceEl,1650.0,3.0,,126.0,3.0,7636.363636363636
+437,Super built-up  Area,Ready To Move,HBR Layout,2,Mantsce,1068.0,2.0,1.0,43.0,2.0,4026.2172284644193
+438,Built-up  Area,Ready To Move,Kengeri,1,,410.0,1.0,1.0,15.0,1.0,3658.5365853658536
+439,Built-up  Area,Ready To Move,other,5,,2000.0,5.0,2.0,240.0,5.0,12000.0
+440,Super built-up  Area,Ready To Move,Bellandur,2,,1185.0,2.0,1.0,47.39,2.0,3999.15611814346
+441,Super built-up  Area,Ready To Move,Whitefield,2,Veales ,1250.0,2.0,2.0,85.0,2.0,6800.0
+442,Super built-up  Area,Ready To Move,Thanisandra,2,MenueNo,1220.0,2.0,2.0,46.0,2.0,3770.4918032786886
+443,Super built-up  Area,Ready To Move,other,2,PlhtsHe,1441.0,2.0,1.0,115.0,2.0,7980.569049271339
+444,Super built-up  Area,18-Sep,Hennur Road,3,Shxorm ,1570.0,3.0,0.0,75.99,3.0,4840.127388535031
+445,Super built-up  Area,Ready To Move,Yelachenahalli,2,Shentnd,1000.0,2.0,2.0,50.0,2.0,5000.0
+446,Super built-up  Area,Ready To Move,other,4,Soeurri,3730.0,6.0,2.0,430.0,4.0,11528.150134048257
+447,Plot  Area,18-Jul,Whitefield,2,,1200.0,2.0,1.0,45.84,2.0,3820.0
+448,Super built-up  Area,18-Dec,Whitefield,4,Prtates,2882.0,5.0,1.0,200.0,4.0,6939.625260235947
+449,Built-up  Area,Ready To Move,Kaval Byrasandra,3,,2700.0,3.0,2.0,200.0,3.0,7407.407407407408
+450,Super built-up  Area,20-Dec,Padmanabhanagar,3,SollyCl,2051.0,3.0,1.0,180.0,3.0,8776.206728425159
+451,Super built-up  Area,Ready To Move,Hormavu,2,,980.0,2.0,2.0,42.0,2.0,4285.714285714285
+452,Super built-up  Area,Ready To Move,Yeshwanthpur,2,IBityin,1166.0,2.0,1.0,64.08,2.0,5495.711835334477
+453,Super built-up  Area,19-Dec,Kengeri,1,VBn 2lm,416.0,1.0,1.0,17.19,1.0,4132.211538461539
+454,Super built-up  Area,Ready To Move,Yelahanka,3,,1590.0,2.0,2.0,54.0,3.0,3396.2264150943397
+455,Super built-up  Area,Ready To Move,other,2,Amnavdr,1060.0,2.0,1.0,52.0,2.0,4905.66037735849
+456,Plot  Area,Ready To Move,other,3,,2500.0,2.0,1.0,300.0,3.0,12000.0
+457,Super built-up  Area,Ready To Move,other,3,Naory G,1475.0,3.0,3.0,75.0,3.0,5084.745762711865
+458,Super built-up  Area,Ready To Move,Thanisandra,2,MenueNo,1185.0,2.0,2.0,43.5,2.0,3670.8860759493673
+459,Built-up  Area,Ready To Move,Electronic City,3,BrnoxEq,1700.0,3.0,2.0,90.0,3.0,5294.117647058823
+460,Super built-up  Area,18-Jun,other,1,,648.0,1.0,1.0,40.0,1.0,6172.83950617284
+461,Built-up  Area,Ready To Move,7th Phase JP Nagar,3,LencyRe,1075.0,2.0,1.0,57.0,3.0,5302.325581395349
+462,Super built-up  Area,Ready To Move,other,2,Meines ,1170.0,2.0,1.0,39.0,2.0,3333.3333333333335
+463,Super built-up  Area,Ready To Move,Kothanur,3,Somumys,1787.0,3.0,2.0,120.0,3.0,6715.165081141578
+464,Plot  Area,Ready To Move,Varthur,4,,1740.0,4.0,3.0,175.0,4.0,10057.471264367816
+465,Built-up  Area,Ready To Move,other,3,Sariana,1507.0,3.0,1.0,80.0,3.0,5308.560053085601
+466,Super built-up  Area,Ready To Move,Akshaya Nagar,3,,1893.0,4.0,2.0,95.0,3.0,5018.489170628632
+467,Super built-up  Area,Ready To Move,other,3,ItAnuna,1567.0,2.0,3.0,62.0,3.0,3956.6049776643267
+468,Super built-up  Area,Ready To Move,Kasavanhalli,3,Salisal,1747.0,3.0,1.0,110.0,3.0,6296.508299942759
+469,Super built-up  Area,18-Apr,Dasanapura,2,Tavenew,966.0,2.0,1.0,58.0,2.0,6004.140786749483
+470,Super built-up  Area,Ready To Move,other,4,Leton A,2360.0,3.0,2.0,185.0,4.0,7838.983050847458
+471,Super built-up  Area,Ready To Move,Yelahanka,2,,1322.0,2.0,1.0,77.9,2.0,5892.586989409986
+472,Plot  Area,18-May,Kaggalipura,3,AxvamTa,2200.0,4.0,1.0,150.0,3.0,6818.181818181818
+473,Super built-up  Area,Ready To Move,BTM Layout,2,,1196.0,2.0,2.0,56.81,2.0,4750.0
+474,Super built-up  Area,Ready To Move,Thanisandra,3,Bhmesy ,1573.0,3.0,2.0,115.0,3.0,7310.870947234584
+475,Super built-up  Area,Ready To Move,Thanisandra,2,Juaxyan,1110.0,2.0,2.0,46.5,2.0,4189.189189189189
+476,Built-up  Area,Ready To Move,Dasarahalli,2,Prndsde,1200.0,2.0,2.0,42.0,2.0,3500.0
+477,Built-up  Area,Ready To Move,Mallasandra,3,,1100.0,2.0,3.0,76.3,3.0,6936.363636363636
+478,Super built-up  Area,18-Apr,Doddaballapur,1,,654.0,1.0,1.0,49.0,1.0,7492.354740061162
+479,Super built-up  Area,18-Apr,Kadugodi,3,Alestrb,1762.0,3.0,3.0,109.0,3.0,6186.152099886493
+480,Super built-up  Area,Ready To Move,other,3,MJarlPe,2505.0,3.0,,165.0,3.0,6586.826347305389
+481,Super built-up  Area,Ready To Move,other,1,,500.0,1.0,2.0,51.0,1.0,10200.0
+482,Super built-up  Area,18-Oct,other,2,,1020.0,2.0,2.0,52.0,2.0,5098.0392156862745
+483,Super built-up  Area,Ready To Move,Jakkur,2,HRaniIb,1432.0,2.0,1.0,85.0,2.0,5935.754189944134
+484,Built-up  Area,21-Dec,other,3,,1500.0,3.0,2.0,50.0,3.0,3333.3333333333335
+485,Super built-up  Area,Ready To Move,Kundalahalli,2,Viuliap,1315.0,2.0,3.0,74.0,2.0,5627.376425855513
+486,Built-up  Area,Ready To Move,Kodigehaali,3,Shyas S,1442.0,3.0,2.0,80.0,3.0,5547.850208044383
+487,Super built-up  Area,18-Apr,Lingadheeranahalli,3,Shiumi ,1768.0,3.0,3.0,81.31,3.0,4598.981900452489
+488,Built-up  Area,Ready To Move,Gubbalala,3,MauilTr,1745.0,3.0,2.0,130.0,3.0,7449.856733524355
+489,Super built-up  Area,Ready To Move,Sonnenahalli,3,AdtusAn,1550.0,3.0,1.0,50.0,3.0,3225.8064516129034
+490,Super built-up  Area,Ready To Move,7th Phase JP Nagar,2,Prhna S,1128.0,2.0,1.0,60.0,2.0,5319.148936170212
+491,Built-up  Area,Ready To Move,Whitefield,5,,4144.0,5.0,1.0,331.0,5.0,7987.451737451737
+492,Super built-up  Area,Ready To Move,Thigalarapalya,2,,1297.0,2.0,2.0,98.0,2.0,7555.898226676947
+493,Super built-up  Area,Ready To Move,Thubarahalli,3,ShdhiSa,1584.0,3.0,2.0,101.0,3.0,6376.262626262626
+494,Super built-up  Area,Ready To Move,Dodda Nekkundi,3,Vandaac,1585.0,2.0,2.0,79.0,3.0,4984.22712933754
+495,Built-up  Area,Ready To Move,Kothanur,2,Bisic C,1400.0,2.0,2.0,65.0,2.0,4642.857142857143
+496,Built-up  Area,Ready To Move,Bharathi Nagar,2,ReudePr,1300.0,2.0,2.0,55.86,2.0,4296.923076923077
+497,Super built-up  Area,Ready To Move,Raja Rajeshwari Nagar,3,GrrvaGr,1571.0,3.0,3.0,53.12,3.0,3381.285805219605
+498,Super built-up  Area,Ready To Move,Kanakpura Road,3,PuandHi,1622.0,3.0,,95.0,3.0,5856.966707768187
+499,Plot  Area,Ready To Move,Whitefield,4,Enodsed,1344.0,3.0,1.0,130.0,4.0,9672.619047619048
+500,Super built-up  Area,Ready To Move,other,2,Seamaha,1162.0,2.0,1.0,48.0,2.0,4130.808950086059
+501,Super built-up  Area,18-Nov,Thanisandra,3,Bhe 2ko,1533.0,3.0,0.0,75.885,3.0,4950.097847358122
+502,Super built-up  Area,Ready To Move,Gottigere,2,SMshi M,1245.0,2.0,2.0,59.0,2.0,4738.955823293173
+503,Super built-up  Area,Ready To Move,Tindlu,2,Suncyu ,1100.0,2.0,2.0,55.0,2.0,5000.0
+504,Built-up  Area,Ready To Move,Hennur,2,,1050.0,2.0,2.0,42.73,2.0,4069.5238095238096
+505,Super built-up  Area,Ready To Move,7th Phase JP Nagar,3,,2100.0,3.0,2.0,190.0,3.0,9047.619047619048
+506,Super built-up  Area,Ready To Move,Kenchenahalli,3,Unateit,1720.0,3.0,,100.0,3.0,5813.953488372093
+507,Super built-up  Area,Ready To Move,Harlur,2,Shodsir,1335.0,2.0,0.0,72.76,2.0,5450.187265917603
+508,Super built-up  Area,19-Sep,Kudlu Gate,3,Srods P,1432.0,2.0,2.0,61.11,3.0,4267.458100558659
+509,Plot  Area,Ready To Move,Akshaya Nagar,4,,1200.0,4.0,2.0,125.0,4.0,10416.666666666666
+510,Super built-up  Area,Ready To Move,Whitefield,3,BrlisCo,1760.0,3.0,2.0,139.0,3.0,7897.727272727273
+511,Super built-up  Area,Ready To Move,Bharathi Nagar,2,FoapeWa,1379.0,2.0,1.0,85.0,2.0,6163.8868745467735
+512,Super built-up  Area,Ready To Move,other,3,,1480.0,2.0,0.0,75.0,3.0,5067.5675675675675
+513,Built-up  Area,Ready To Move,Sarjapur  Road,4,,2758.0,4.0,1.0,240.0,4.0,8701.95794053662
+514,Built-up  Area,18-Mar,Thanisandra,4,Bhmesy ,1917.0,4.0,2.0,130.0,4.0,6781.429316640584
+515,Super built-up  Area,19-Dec,Kanakapura,3,GoityEt,1477.0,2.0,1.0,69.5,3.0,4705.484089370345
+516,Super built-up  Area,18-Apr,EPIP Zone,4,BrontLa,3360.0,5.0,2.0,221.0,4.0,6577.380952380952
+517,Plot  Area,18-Jan,other,1,,812.0,1.0,0.0,26.0,1.0,3201.9704433497536
+518,Super built-up  Area,18-Jul,other,3,Plowsri,1440.0,2.0,2.0,63.93,3.0,4439.583333333333
+519,Super built-up  Area,Ready To Move,Sultan Palaya,4,RSntsAp,2200.0,3.0,3.0,80.0,4.0,3636.3636363636365
+520,Super built-up  Area,18-Jun,Padmanabhanagar,4,SollyCl,4689.0,4.0,1.0,488.0,4.0,10407.336319044573
